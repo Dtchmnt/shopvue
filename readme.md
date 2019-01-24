@@ -1,5 +1,5 @@
 
-## About Laravel
+## About APP
 Laravel 5.7 API with a Vue.js frontend
 ## Quick Start
 #### Install Dependencies
@@ -8,9 +8,6 @@ $ composer install
 
 # Run Migrations
 $ php artisan migrate
-
-# Import Articles
-$ php artisan db:seed
 
 # Add virtual host if using Apache
 
