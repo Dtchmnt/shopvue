@@ -3,22 +3,23 @@
 Laravel 5.7 API with a Vue.js frontend
 ## Quick Start
 #### Install Dependencies
-composer install
 ```sh
-$ Run Migrations
-php artisan migrate
+$ composer install
 
-$ Import Articles
-php artisan db:seed
+# Run Migrations
+$ php artisan migrate
 
-$ Add virtual host if using Apache
+# Import Articles
+$ php artisan db:seed
 
-$ If you get an error about an encryption key
-php artisan key:generate
+# Add virtual host if using Apache
 
-$ Install JS Dependencies
-npm install
+# If you get an error about an encryption key
+$ php artisan key:generate
 
-$ Watch Files
-npm run watch
+# Install JS Dependencies
+$ npm install
+
+# Watch Files
+$ npm run watch
 ```
