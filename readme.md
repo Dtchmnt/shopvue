@@ -1,7 +1,7 @@
 ## About Laravel
 Laravel 5.7 API with a Vue.js frontend
 ## Quick Start
-# Install Dependencies
+#### Install Dependencies
 composer install
 
 # Run Migrations
